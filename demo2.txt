@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Hola como estas
-Demo2
+Demo2 ......
+>>>>>>> demo
